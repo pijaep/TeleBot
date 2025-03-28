@@ -7,7 +7,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from datetime import datetime
 
-TOKEN = "8097626872:AAFBA-Xbvhx3EFbhuY9ZxI9tSBhCjocr-4Q"
+TOKEN = "8097626872:AAGpT4pZPACtovunVoH8UoAZnizq9a3KpGc"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
